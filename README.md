@@ -15,3 +15,4 @@ When it passes cross the second sensor the microcontroller will stop counting an
 the speed as kilometer per hour. If the car’s speed is over speed(100 km/h). Then,
 LCD displays the speed of vehicles. This system is to improve a device that detects over
 speeding of vehicle, gives warning using alarm and display vehicle’s speed in LCD.
+
